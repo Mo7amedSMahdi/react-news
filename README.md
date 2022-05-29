@@ -1,6 +1,31 @@
-# Getting Started with Create React App
+# React News
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an HTMl and CSS design for Agency website.
+
+# Screen Shots
+
+> Comming soon
+
+## Built With &hearts;
+
+- HTML
+- CSS
+- JavaScript
+- React
+- React Router
+- Redux
+- Redux toolkit
+- Material UI.
+
+## Live Demo
+
+> Soon
+
+## Getting started
+
+to run the project locally, clone the project using the command
+
+`git clone git@github.com:Mo7amedSMahdi/react-news.git`
 
 ## Available Scripts
 
@@ -39,32 +64,37 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### Run test
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+navigate in to the project directory, from GitHub,
+to test or run the application double click on the `index.html` file to open in your browser
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Authors
 
-### Code Splitting
+👤 **Author**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- GitHub: [@Mo7amedSMahdi](https://github.com/Mo7amedSMahdi)
+- Twitter: [@devMo7amed](https://twitter.com/devMo7amed)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammed-mahdi-b20340162/)
 
-### Analyzing the Bundle Size
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions, issues, and feature requests are welcome!
 
-### Making a Progressive Web App
+Feel free to check the [issues page](../../issues/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Show your support
 
-### Advanced Configuration
+Give a ⭐️ if you like this project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Acknowledgments
 
-### Deployment
+- Hat tip to anyone whose code was used
+- Microverse program
+- My standup team
+- Microverse team
+- My family's support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 📝 License
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is open source project.
